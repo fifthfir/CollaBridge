@@ -211,3 +211,10 @@ CollaBridge-Backend/
 ## License
 
 MIT License. See [LICENSE](./LICENSE) for details.
+
+## Peer Review
+CollaBridge is a well-designed and complete full-stack project, with a clear concept of connecting brands and creators! The two-role system makes the product idea coherent and easy to understand.
+
+Some small improvements could further enhance the project. For example, the interaction between brands and creators could be developed into a clearer end-to-end workflow, and the documentation could include more details about data relationships and system design.
+
+Overall, I think this is a strong and well-structured project with good technical implementation and clear product thinking.
